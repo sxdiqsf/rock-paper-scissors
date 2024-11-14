@@ -1,7 +1,3 @@
-# rock-paper-scissors
-rock-paper-scissors using mediapipe
-Sure, here's a README file for your GitHub repository explaining your Python code:
-
 ---
 
 # Rock Paper Scissors Hand Gesture Game
